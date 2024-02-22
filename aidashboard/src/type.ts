@@ -1,5 +1,3 @@
-// types.ts
-
 export interface AiData {
     category_distribution: CategoryDistribution[];
     response_times: ResponseTimes;

@@ -1,4 +1,3 @@
-
 import { combineReducers } from 'redux';
 import categoryDistributionReducer from './categoryDistribution'
 import responseTimesReducer from './responseTime'
